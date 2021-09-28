@@ -27,5 +27,5 @@ Imagenes utilizadas en los notebooks.
 * **skimage**
 * **shapely**
 * **glob**
-** **sklearn**
+* **sklearn**
 * **scipy**
