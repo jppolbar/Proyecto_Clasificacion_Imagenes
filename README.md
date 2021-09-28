@@ -5,9 +5,9 @@ Este proyecto se ha realizado como ejercicio de de proponer un modelo clasificad
 * **Red Neuronal Convolucional-CNN** - Aproximación desde el Deep Learning, con una red convolucional que están optimizadas para estas cuestiones con imagenes.
 
 ## Contenido y Estrutura del proyecto
-El proyeto se divide en 2 notebooks y 2 carpetas **datos** e **img**:
+El proyeto se divide en 2 notebooks y 2 carpetas **technical_test_images_cnn** e **img**:
 
-* **Clasterizacion_&_Semi_Supervisado**  -  En este notebook es donde se encuentra el modelo de clasterización y el semi-supervisado.
+* **Clasterizacion_&_Semi_Supervisado.iypnb**  -  En este notebook es donde se encuentra el modelo de clasterización y el semi-supervisado.
 * **Red CNN.iypnb**  -  En este notebook es donde están el modelo de la CNN.
 
 ### Carpeta "technical_test_images_cnn"
